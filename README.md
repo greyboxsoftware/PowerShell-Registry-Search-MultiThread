@@ -8,5 +8,7 @@ Some things to note are the following
   https://psremoteregistry.codeplex.com/
 
 - Due to the newer PowerShell version and the outdated scripts you must make a few changes to the PSRemoteRegistry.psd1 file that is located (see the PSRemoteRegistry.psd1 file here for a reference) 
+
+
   c:\windows\system32\windowspowershell\v1.0\modules\PSRemoteRegistry
 
