@@ -29,8 +29,7 @@ NOTE: If you don't see the key that means its not there and will require further
 
 THE FOLLOWING WILL LIST SOME TROUBLESHOOTING STEPS THAT YOU COULD TAKE IF THIS SCRIPT FAILS FOR ANY REASON
  - Ensure you have the PSRemoteRegistry Module imported into PowerShell
-    - The PSRemoteRegistry Module can be found on the CRISP_Contractors portal
-        -\\r02.med.va.gov\cssl\Client Tech\Crisp_Contractors\Scripts and Fixes
+    - The PSRemoteRegistry Module can be found on the portal
     - unzip the PSRemoteRegistry zip folder and copy the unzipped folder into the module directory
         - C:\Windows\System32\WindowsPowerShell\v1.0\Modules
     - Ensure that the module is imported by running Import-Module -Name PSRemoteRegistry -Force
