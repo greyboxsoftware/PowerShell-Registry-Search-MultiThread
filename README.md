@@ -14,3 +14,11 @@ Some things to note are the following
 
     c:\windows\system32\windowspowershell\v1.0\modules\PSRemoteRegistry
 
+INSTRUCTIONS:
+    
+    - Copy and Paste a list of computers inside a text file and save it anywhere on your computer
+    - First prompt will ask you for the text file and its path
+        - ex.   c:\temp\testComputer.txt
+    - Second prompt will ask you for the key you are searching for 
+        - ex.    SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\etc...
+    - No time for coffee because this script runs fast :) 
